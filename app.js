@@ -8,7 +8,7 @@ const categories = {
                 description: "Additional monitors for my laptop.", 
                 links: [
                     {
-                        text: "Quad Extender",
+                        text: "Quad Screen Extender (Black)",
                         url: "https://a.co/d/07aJ20Hd"
                     }
                 ] 
@@ -18,11 +18,11 @@ const categories = {
                 description: "A wireless, portable, and magnetic charger for my iPhone. Additionally, an adhesive magnet ring would be needed for it to stick to my phone.", 
                 links: [
                     {
-                        text: "Charger",
+                        text: "Charger (Black)",
                         url: "https://a.co/d/0ex2zZBJ"
                     },
                     {
-                        text: "Adhesive Magnet Ring",
+                        text: "Adhesive Magnet Ring (Black)",
                         url: "https://a.co/d/0jgaQ7Vv"
                     }
                 ] 
@@ -72,7 +72,7 @@ const categories = {
                 description: "Fenders to keep my wheels from kicking up water and mud in wet weather.", 
                 links: [
                     {
-                        text: "SKS Bluemels B65 (black) Fender Set",
+                        text: "SKS Bluemels B65 (Black) Fender Set",
                         url: "https://sks-us.com/products/bluemels-fender-set-27-5-29-wheels?srsltid=AYCX9vI9RaRbOO2-yhG5Qy_Q9cppnuGkUmKuX4fVbOT6Qvr0W-POFbhm"
                     }
                 ] 
