@@ -150,7 +150,7 @@ if(grid) {
                     link.href = item.url;
                     link.target = "_blank";
                     link.rel = "noopener noreferrer";
-                    link.textContent = `${item.text} ↗`;
+                    link.textContent = `${item.text}`;
                     link.setAttribute(
                         "aria-label",
                         `${item.text} for ${gift.title} (opens in a new tab)`
