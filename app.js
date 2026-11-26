@@ -82,7 +82,7 @@ const categories = {
                 description: "Gloves to keep my hands warm when biking on cold mornings (please include receipt, I may need to try multiple pairs).", 
                 links: [
                     {
-                        text: "Black Cycling Gloves (Men's Large)",
+                        text: "Gloves (Men's Large)",
                         url: "https://a.co/d/0gOJilFU"
                     }
                 ] 
@@ -122,7 +122,7 @@ if(grid) {
         document.querySelector("#category-description").textContent = "Return to the homepage to choose a category.";
         grid.innerHTML = '<p class="empty-state">No category matches that link.</p>';
     } else {
-        document.title = `${category.title} · Christmas List`;
+        document.title = `${category.title} - Wishlist`;
         document.querySelector("#category-title").textContent = category.title;
         document.querySelector("#category-description").textContent = category.description;
 
