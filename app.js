@@ -38,7 +38,7 @@ const categories = {
                 description: "Original cookie dough bites, or some other interesting varient like red velvet, smores, or fudge brownie (also accessible through the link).", 
                 links: [
                     {
-                        text: "Original (and varients)",
+                        text: "Original (and variants)",
                         url: "https://a.co/d/0eLmHqwu"
                     }
                 ] 
